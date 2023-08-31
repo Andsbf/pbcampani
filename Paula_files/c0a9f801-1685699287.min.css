@@ -36388,7 +36388,12 @@ body {
         margin: 5% 0
     }
 }
+@media only screen and (max-width:991px) {
+  #home_content_954218bfd87cb3b458721f4a70135965 {
+    margin-top: 100px !important;
 
+  }
+}
 @media only screen and (max-width:767px) {
     .home-photo {
         width: 60%;
@@ -36431,6 +36436,9 @@ body {
     .home-text h4 {
         font-size: 14px
     }
+}
+#home_content_954218bfd87cb3b458721f4a70135965 {
+  margin: 5% 10% 0px 10%;
 }
 
 #home_content_954218bfd87cb3b458721f4a70135965 .home-photo .hp-inner {
