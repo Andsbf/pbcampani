@@ -10406,6 +10406,8 @@ tbody.collapse.show {
 }
 
 .card-img-top {
+    height: 300px;
+    object-fit: cover;
     width: 100%;
     border-top-left-radius: calc(.25rem - 1px);
     border-top-right-radius: calc(.25rem - 1px)
